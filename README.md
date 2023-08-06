@@ -4,8 +4,6 @@ This repository contains a Circom circuit designed by Me (Abhishek). The circuit
 
 ## Here is the loom video in which I've tried to explain the project in detail
 
-![image](https://github.com/abhistormwastaken/POLY-PROOF-Module-3/assets/108385333/cdc177da-ebbf-4fd8-a28f-cf24c24a8e22)
-
 https://www.loom.com/share/df12b76e2cdc47008bdb6b7392b0a56f?sid=ae7e3091-6577-47f6-b1d2-019ea96960c4
 
 ## Circuit Description
