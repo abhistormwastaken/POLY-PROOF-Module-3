@@ -2,6 +2,12 @@
 
 This repository contains a Circom circuit designed by Me (Abhishek). The circuit's purpose is to take two inputs `a` and `b` and produce an output `f`, such that `f` is 0 when `a` is 0 and `b` is 1.
 
+## Here is the loom video in which I've tried to explain the project in detail
+
+![image](https://github.com/abhistormwastaken/POLY-PROOF-Module-3/assets/108385333/cdc177da-ebbf-4fd8-a28f-cf24c24a8e22)
+
+https://www.loom.com/share/df12b76e2cdc47008bdb6b7392b0a56f?sid=ae7e3091-6577-47f6-b1d2-019ea96960c4
+
 ## Circuit Description
 
 The circuit is designed using the Circom language, version 2.0.0. It consists of three components: `andGate1`, `notGate`, and `andGate2`. The main circuit template is `AbhishekCircuit`, which connects these components to create the desired logic.
